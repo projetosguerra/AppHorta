@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185208250226",
+    "project_id": "horta-8c609",
+    "storage_bucket": "horta-8c609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185208250226:android:e03ccb7429f8eaabf687eb",
+        "android_client_info": {
+          "package_name": "com.mycompany.apphorta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE-xdxPuvl32UWsrSqNjSfkm3PNUPdrM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
