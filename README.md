@@ -23,7 +23,7 @@ Tudo começou como uma simples ideia para uma horta escolar, que ganhou força q
 
 Originalmente parte de uma tese de doutorado, o HortaApp foi apresentado em diversos eventos e até ganhou destaque em matérias escritas. Após a finalização da bolsa, o projeto seguiu em frente com novos integrantes, através de um intercâmbio remoto entre escolas técnicas da américa latina, enfrentando o desafio de migrar o app para uma nova plataforma e expandir suas funcionalidades.
 
-Em 2023, o **HortaApp** foi relançado com melhorias significativas, e, em 2024, sua versão mais completa foi concluída, onde foi apresentado na feira tecnológica [**FETEPS**]("http://feteps.cpscetec.com.br/index.php)", e ganhou um prêmio da Universidade Presbiteriana Mackenzie. Hoje, o aplicativo representa não apenas uma ferramenta útil para hortas, mas também um exemplo de dedicação, aprendizado e trabalho em equipe.
+Em 2023, o **HortaApp** foi relançado com melhorias significativas, e, em 2024, sua versão mais completa foi concluída, onde foi apresentado na feira tecnológica [**FETEPS**]("http://feteps.cpscetec.com.br/index.php), e ganhou um prêmio da Universidade Presbiteriana Mackenzie. Hoje, o aplicativo representa não apenas uma ferramenta útil para hortas, mas também um exemplo de dedicação, aprendizado e trabalho em equipe.
 
 ---
 
